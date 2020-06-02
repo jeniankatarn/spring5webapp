@@ -30,7 +30,7 @@ public class BootStrapData implements CommandLineRunner {
         aw.setAddressLine("Helsinki City Boy 2");
         aw.setCity("Helsinki 10");
         aw.setCountry("Finland");
-        aw.setName("Iiro Ilari");
+        aw.setName("Jokirannan Kipparit");
         aw.setZipcode("0100100");
         aw.setProvince("Hervanta");
 
